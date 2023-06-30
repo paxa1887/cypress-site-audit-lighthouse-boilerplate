@@ -1,0 +1,15 @@
+{
+  "name": "cypress-site-audit-lighthouse-boilerplate",
+  "version": "1.0.0",
+  "description": "Cypress site audit lighthouse boilerplate",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.16.0",
+    "@cypress-audit/lighthouse": "^1.4.2",
+    "@cypress-audit/pa11y": "^1.4.2"
+  }
+}
