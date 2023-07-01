@@ -1,4 +1,4 @@
-describe("External", () => {
+describe("Lighthouse site audit", () => {
   it("check scores", () => {
     cy.visit("/");
 
